@@ -1,2 +1,1 @@
-"use strict"
-console.log("helo worl");
+console.log("holamundo");
